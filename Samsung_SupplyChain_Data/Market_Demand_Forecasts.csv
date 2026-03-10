@@ -1,0 +1,101 @@
+ForecastID,ProductID,TargetMonth,PredictedDemand,ActualSales,ForecastError_Pct,WeatherImpact,EconomicIndex,CompetitorAction,PromotionActive
+1,123,2022-01,1346,1971,7.87,Low,90.7,None,Yes
+2,119,2022-01,1639,277,12.4,Low,100.6,Aggressive Promotion,Yes
+3,103,2022-01,291,1001,1.67,Medium,96.6,Aggressive Promotion,No
+4,121,2022-01,1304,327,5.62,Low,100.6,None,No
+5,135,2022-02,1027,934,13.66,None,91.1,Aggressive Promotion,Yes
+6,122,2022-02,663,1833,7.65,None,103.8,Aggressive Promotion,Yes
+7,129,2022-03,1874,1080,3.75,None,103.2,Price Drop,Yes
+8,143,2022-03,459,137,0.74,None,97.3,Aggressive Promotion,No
+9,112,2022-03,1754,1484,4.37,Low,92.4,Price Drop,Yes
+10,135,2022-04,209,1131,10.87,Medium,106.1,Price Drop,Yes
+11,108,2022-04,1054,281,4.29,None,96.8,None,Yes
+12,116,2022-04,463,938,11.54,None,95.9,Aggressive Promotion,Yes
+13,124,2022-04,1928,1541,8.27,Medium,95.1,Price Drop,Yes
+14,111,2022-04,1481,1844,5.11,High,98.6,Price Drop,No
+15,120,2022-05,1917,1702,0.99,None,108.7,None,Yes
+16,101,2022-06,1362,575,13.91,Medium,98.6,None,No
+17,150,2022-06,1030,1559,11.94,Low,93.3,None,Yes
+18,132,2022-06,335,850,6.74,Low,99.5,Price Drop,No
+19,132,2022-06,683,533,2.41,Low,106.5,Aggressive Promotion,No
+20,127,2022-07,1908,2026,13.63,Medium,91.3,None,No
+21,123,2022-07,727,879,5.58,Low,98.0,Price Drop,Yes
+22,133,2022-07,465,879,5.27,None,106.5,Price Drop,No
+23,105,2022-07,1634,1225,8.35,Medium,101.9,Aggressive Promotion,No
+24,115,2022-07,155,316,3.56,Medium,97.0,Price Drop,No
+25,138,2022-07,882,290,7.52,Low,99.2,None,Yes
+26,149,2022-08,1931,1324,12.59,High,97.2,None,Yes
+27,131,2022-09,1044,1025,3.57,High,94.3,None,No
+28,114,2022-10,1207,1957,0.52,Low,102.3,None,Yes
+29,135,2022-10,187,1468,5.51,None,99.9,Aggressive Promotion,No
+30,124,2022-10,1461,359,11.63,None,99.5,Aggressive Promotion,Yes
+31,107,2022-10,1346,1603,3.95,High,108.6,Price Drop,Yes
+32,106,2022-11,538,1755,9.93,Low,107.7,Price Drop,No
+33,105,2022-12,1594,1185,10.02,Low,101.2,Price Drop,Yes
+34,138,2022-12,1387,195,11.89,Low,103.1,None,No
+35,148,2023-01,1005,1195,9.23,None,91.0,Aggressive Promotion,Yes
+36,111,2023-02,375,749,0.46,None,95.2,Price Drop,No
+37,145,2023-02,1024,2088,2.32,High,103.2,Price Drop,No
+38,113,2023-03,669,1145,5.97,Medium,108.8,Aggressive Promotion,No
+39,135,2023-03,862,129,2.56,Medium,109.7,Price Drop,No
+40,118,2023-03,1330,270,9.41,None,108.0,Price Drop,No
+41,121,2023-03,149,1331,3.07,Low,109.4,Price Drop,No
+42,129,2023-03,1663,577,1.88,Low,106.2,Aggressive Promotion,No
+43,138,2023-04,375,2022,1.41,Low,106.0,Aggressive Promotion,No
+44,137,2023-04,1051,1379,14.55,Medium,106.6,Aggressive Promotion,Yes
+45,140,2023-04,564,824,13.11,Medium,104.7,Price Drop,Yes
+46,108,2023-05,984,315,2.28,Low,96.5,Price Drop,No
+47,150,2023-06,1761,1151,6.57,High,101.6,Aggressive Promotion,Yes
+48,119,2023-06,1172,2022,11.59,Low,106.5,Price Drop,Yes
+49,148,2023-07,278,1456,2.63,None,92.3,Price Drop,Yes
+50,112,2023-07,618,185,3.28,Low,95.4,None,Yes
+51,102,2023-07,706,273,11.25,Medium,98.0,None,Yes
+52,120,2023-07,1041,1488,8.56,Low,108.2,None,No
+53,143,2023-08,1543,966,3.55,None,97.7,Price Drop,Yes
+54,110,2023-09,909,195,6.99,None,104.8,None,Yes
+55,136,2023-10,1419,1440,0.37,Medium,106.4,Price Drop,No
+56,128,2023-10,1499,1664,14.42,Medium,109.4,Price Drop,No
+57,132,2023-10,1187,1512,7.02,Medium,101.9,Aggressive Promotion,No
+58,113,2023-10,924,1552,13.06,None,101.3,None,Yes
+59,148,2023-10,1209,1106,0.29,High,103.7,None,No
+60,137,2023-10,929,100,2.78,High,96.3,None,No
+61,149,2023-10,1925,482,12.41,None,106.4,None,Yes
+62,106,2023-11,311,1258,10.09,Medium,100.9,Aggressive Promotion,Yes
+63,122,2023-11,1043,1537,8.57,Low,92.4,None,Yes
+64,132,2023-12,1338,2033,11.97,None,95.8,Price Drop,Yes
+65,127,2023-12,593,920,7.31,Low,100.6,None,No
+66,125,2023-12,1928,1178,3.31,High,108.0,None,Yes
+67,134,2023-12,1979,1245,0.45,None,103.1,Aggressive Promotion,No
+68,115,2023-12,1194,1638,14.99,None,101.4,Price Drop,Yes
+69,119,2024-01,1183,434,12.02,None,106.8,None,No
+70,128,2024-01,1168,542,12.39,Medium,93.7,None,Yes
+71,135,2024-01,1646,1616,6.45,None,92.1,None,Yes
+72,131,2024-02,584,536,0.75,None,94.5,Price Drop,No
+73,120,2024-02,1870,1415,4.18,Medium,103.8,None,No
+74,121,2024-03,961,1821,2.6,Medium,99.3,Price Drop,Yes
+75,125,2024-03,200,1068,5.81,Low,92.4,Price Drop,No
+76,104,2024-03,138,919,11.26,Medium,97.6,Aggressive Promotion,Yes
+77,143,2024-04,1391,1061,3.11,None,109.6,None,Yes
+78,127,2024-04,1866,777,13.81,None,101.5,None,No
+79,120,2024-04,1432,619,0.6,None,99.3,None,No
+80,105,2024-04,1216,1920,4.22,High,91.7,Price Drop,No
+81,125,2024-04,749,313,5.88,None,94.4,Price Drop,Yes
+82,111,2024-05,1857,866,6.87,Medium,90.2,Aggressive Promotion,Yes
+83,110,2024-05,1136,1342,8.49,Low,96.1,None,No
+84,124,2024-06,1267,120,2.12,None,107.9,Aggressive Promotion,Yes
+85,115,2024-06,1379,2053,1.31,Medium,96.0,Aggressive Promotion,Yes
+86,146,2024-06,1357,1360,3.27,None,96.9,Aggressive Promotion,No
+87,133,2024-06,1075,1303,2.74,None,93.8,None,Yes
+88,106,2024-07,254,1241,2.15,High,104.7,None,No
+89,143,2024-07,135,1503,13.94,Medium,108.7,None,No
+90,131,2024-07,1221,768,8.95,None,93.5,None,Yes
+91,148,2024-07,479,1202,7.29,Medium,92.1,Price Drop,Yes
+92,146,2024-07,482,399,5.18,High,93.2,None,No
+93,130,2024-07,827,1070,7.66,Low,97.0,Price Drop,Yes
+94,140,2024-07,730,914,0.01,High,106.4,Aggressive Promotion,Yes
+95,146,2024-07,1196,1941,12.68,High,98.7,None,Yes
+96,102,2024-08,736,938,10.16,High,99.2,None,Yes
+97,103,2024-08,1473,1384,11.41,None,90.6,Aggressive Promotion,No
+98,110,2024-08,667,276,5.7,None,99.6,Price Drop,Yes
+99,116,2024-08,1003,1552,9.12,Medium,94.2,None,No
+100,111,2024-09,265,1720,3.52,High,98.2,Aggressive Promotion,No
